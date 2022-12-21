@@ -1,0 +1,249 @@
+body{
+    background-color: rgb(68, 68, 133);
+    
+}
+.title{
+    color: black;
+text-align: center;
+font-weight: bolder;
+border: 10px  black solid;
+}
+    
+.items{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    color: black;
+}
+
+nav{
+
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 0 25px 20px -20px rgba(0, 0, 0, 0.4);
+
+}
+
+.social-media-icon-black a{
+    color: black;
+    font-size: 2rem;
+    position: relative;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	top: 300px;
+	width: 100%;
+    margin: 100px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 13px 35px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 500px;
+    cursor: pointer;
+    
+
+}
+
+
+.aboutus{
+    background-color: black;
+    color: palevioletred;
+}
+.contactus{
+    background-color: black;
+    color: palevioletred;
+}
+
+
+img{
+     width: 20%;
+     height: 50%;
+     padding: block 500;   
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background:black;
+    color: rgb(168, 43, 64);
+    font-size: 20px;
+}
+
+
+   #wrap{
+    border: 1px solid lightgray;
+    alignment-adjust: central;
+    width: 1000px;
+    margin-left: 50px;
+    margin-top: 10px;
+    box-shadow: 0 5px 0 #e10707;
+    padding-bottom: 50px;
+    
+    }
+    h1{
+    color: blue-violet;
+    text-align: center;
+    }
+    
+    h3.heading{
+    margin-left: 20px;
+    background-color: #e21111;
+    font-size: 25px;
+    float: left;
+    padding-left: 40px;
+    position: relative;
+    width: 405px;
+    height: 40px;
+    padding-top: 5px;
+    
+    }
+    #upper_blank{
+    border-bottom: 7px solid steelblue;
+    margin-top: 40px;
+    margin-right: 485px;
+    width: 570px;
+    padding-right: 480px;
+    }
+    p{
+    margin-left: 5px;
+    padding: 8px;
+    padding-left: 20px;
+    }
+    #name{
+    margin-left: 20px;
+    box-shadow: 0 2px 0 #e6e6e6;
+    height: 40px;
+    padding-left: 10px;
+    width: 500px;
+    }
+    #email{
+    margin-left: 20px;
+    box-shadow: 0 2px 0 #e6e6e6;
+    height: 40px;
+    padding-left: 10px;
+    width: 500px;
+    }
+    #url{
+    margin-left: 20px;
+    box-shadow: 0 2px 0 #e6e6e6;
+    height: 40px;
+    padding-left: 10px;
+    width: 500px;
+    }
+    #comment{
+    margin-left: 20px;
+    box-shadow: 0 2px 0 #dd0f0f;
+    height: 40px;
+    padding-left: 10px;
+    width: 650px;
+    height: 200px;
+    }
+    #commentSubmit{
+    margin-left: 20px;
+    width: 250px;
+    height: 55px;
+    color: white;
+    font-size: 20px;
+    background-color: #2c95dc;
+    box-shadow: 0 3px 0 #09466f;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    border-radius: 5px;
+    }
+    #commentSubmit:hover {
+    background-color: #09466f;
+    
+    }
+    
+    p{
+    font-size: 18px;
+    color: rgb(232, 13, 86);
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-style: bolder;
+    }
+    p1{
+    font-size: 18px;
+    padding-top: 20px;
+    }
+    
+    h3.second_heading{
+    margin-left: 0;
+    margin-top: 30px;
+    font-size: 20px;
+    width: 250px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 55px;
+    
+    }
+    #middle{
+    border: 1px solid lightgray;
+    width: 1000px;
+    height: 200px;
+    background-color: lightyellow;
+    margin-left: 45px;
+    text-align: left;
+    margin-top: 10px;
+    box-shadow: 0 2px 0 lightgray;
+    }
+    .blank{
+    border-bottom: 7px solid steelblue;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 100px;
+    width: 800px;
+    }
+    
+
+    .header 2{
+        padding: 10px;
+        text-align: center;
+        background:black;
+        color: rgb(168, 43, 64);
+        font-size: 20px;
+    }
+       
+    footer{
+        padding: 20px;
+        background-color: rgb(92, 84, 160);
+        font-size: large
+      }
+      
+    
+      .foot2 {
+        color:Black;
+        font-style: oblique;
+        font-weight: bolder;
+
+      }
+      a{
+        color: black;
+      }
+      
+      .header 3{
+        padding: 10px;
+        text-align: center;
+        background:black;
+        color: rgb(168, 43, 64);
+        font-size: 20px;
+      }
+
+      .header 4{
+        padding: 10px;
+        text-align: center;
+        background:black;
+        color: rgb(168, 43, 64);
+        font-size: 20px;
+      }
+
+      .container 5 {
+        padding: 50px;  
+        background-color: lightblue;  
+      }
+       
